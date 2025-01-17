@@ -12,5 +12,3 @@ print(num2)  # str -> int float 형변환
 # fstring -> 문자열
 num2 = f'{num1:.2f}'
 print(num2)
-
-print('hello world')
