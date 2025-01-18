@@ -9,3 +9,4 @@ else:
          print(f'{number}는 0')
          
 print('계산이 끝났습니다.')
+
