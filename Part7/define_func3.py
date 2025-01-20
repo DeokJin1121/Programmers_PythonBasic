@@ -9,5 +9,4 @@ def purchase_price(price, sale_per):
 p1 = purchase_price(20000, 50)
 p2 = purchase_price(40000, 20)
 print(p1, p2)    # None None -> 10000 32000
-print(p1 + p2) 
-    
+print(p1 + p2)
